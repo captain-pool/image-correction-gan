@@ -32,7 +32,7 @@ For the following set of hyperparameters, Mean PSNR of **36.166** was achieved b
 |Parameters|Value|
 |--------------|-----|
 |Image Patch Size| 128 x 128 |
-|![residual_scaling](https://latex.codecogs.com/gif.latex?%5Calpha)|0.1|
+|![residual_scaling](https://latex.codecogs.com/gif.latex?%5Calpha) (Residual Scaling)|0.1|
 |![lrG](https://latex.codecogs.com/gif.latex?Learning%20Rate_%7BGenerator%7D)|0.0001|
 |![lrD](https://latex.codecogs.com/gif.latex?Learning%20Rate_%7BDiscriminator%7D)|0.0004|
 |![eta](https://latex.codecogs.com/gif.latex?%5Ceta)|![eta_value](https://latex.codecogs.com/gif.latex?10%5E%7B-3%7D)|
