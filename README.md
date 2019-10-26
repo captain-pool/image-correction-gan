@@ -1,5 +1,5 @@
 ## Image Corrrection GAN
-This GAN was built as a part of internship hiring problem for [rephrase.ai](rephrase.ai).
+This GAN was built as a part of internship hiring problem for [rephrase.ai](https://rephrase.ai).
 The task was, given a set of degraded images, degraded using some unknown function, one has to
 build a GAN to fix the images and bring them as closer to the ground truth as possible.
 
